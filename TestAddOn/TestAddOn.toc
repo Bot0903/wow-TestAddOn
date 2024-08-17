@@ -1,0 +1,10 @@
+## Interface: 110002
+## Title: 
+## Notes:
+## Author:
+## Version:
+
+TestAddOn.lua
+TestAddOn.xml
+
+# /run print((select(4, GetBuildInfo())));

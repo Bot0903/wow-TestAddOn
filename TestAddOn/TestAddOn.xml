@@ -1,0 +1,3 @@
+<Uixmlns="http://www.w3.org/1999/xhtml"><!-- Define the static popup dialog for the alert --><StaticPopup name="FOOD_REMINDER_ALERT"><Title>Reminder</Title><Text>Time to eat some food!</Text><Button1>OK</Button1><OnAccept>
+            -- Add any additional actions here if needed
+        </OnAccept></StaticPopup></Ui>
